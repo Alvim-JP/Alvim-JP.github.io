@@ -1,0 +1,19 @@
+body {
+    background-color: #8b939c;
+  }
+  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h2 {
+    font-family: fantasy;
+  }
+  #description {
+    color: #56E39F;
+  }
+  .list-style {
+     color: #32021F;
+     font-size: 20px;
+     font-style: italic;
+     line-height: 40px;
+     text-decoration: underline;
+  }
